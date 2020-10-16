@@ -651,3 +651,4 @@ History start
 2020-10-13T12:38:58 - Fix bug in logic
 2020-10-13T09:54:27 - Remove unused code
 2020-10-13T09:45:28 - Minor cleanup
+2020-10-16T11:12:27 - Refactor code structure
