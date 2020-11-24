@@ -753,3 +753,4 @@ History start
 2020-11-23T17:51:10 - Remove unused code
 2020-11-23T11:43:25 - Add tests
 2020-11-23T16:39:03 - Update documentation
+2020-11-23T17:08:32 - Fix bug in logic
