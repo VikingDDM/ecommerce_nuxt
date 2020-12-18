@@ -812,3 +812,4 @@ History start
 2020-12-14T14:23:56 - Fix bug in logic
 2020-12-14T09:58:49 - Add tests
 2020-12-18T09:05:29 - Initial setup
+2020-12-18T09:14:42 - Remove unused code
